@@ -1,3 +1,34 @@
 (WIP)
-Idea: Fourth Marshal will be an Indie Psychological Narrative RPG Gacha Game that explores the idea of Fourth Marshals, people who work towarda maintaining the separation of reality and fiction.
-The game has you play as one of these "supposed" Fourth Marshals as you work alongside Kaitzar and his AI Assistant Razi-Chan. Together, you help teach at Santa Besado Institute to mentor the next generation of Fourth Marshals (as they don't necessarily have to be people from our real world). To do so, you use a device called the Alternate Fiction, which simulates different past time periods in the Scripted Fates canon, allowing you to try and explore these events to pinpoint "what most likely happened" while also using it to just... fuck around, and "see what would happen". The game will heavily focus on, and deal with, themes of being delusional over fictional stories (simulations), knowing when you've been driven too far into fantasy, how love for fiction can inspire people to become better... or worse, etc. It will also feature a highly-complex "Psychology Stat" system, rather than typical gacha games with typical Crit Chance stats, Crit Damage stats, etc.
+Chatty's Memory Summary:
+
+Fourth Marshal is an Indie Psychological Narrative RPG Gacha Game set within the larger Scripted Fates universe. The game explores the unstable boundary between fiction, simulation, memory, identity, and reality itself.
+Players take the role of a supposed "Fourth Marshal", an individual tasked with helping preserve the separation between fictional realities and higher layers of existence. Working alongside Kaitzar and his AI assistant (a digital clone of Razi-Chan, this world's equivalent to having a Hatsune Miku desktop pet), the player becomes involved with Santa Besado Institute, an organization dedicated to studying, mentoring, and training future Fourth Marshals.
+A major mechanic within the game revolves around the "Alternate Fiction", a simulation system capable of recreating possible interpretations of historical events from across the Scripted Fates canon. Rather than simply replaying fixed timelines, Alternate Fiction scenarios attempt to reconstruct what "most likely happened" based on fragmented information, emotional residue, contradictory records, and user interference.
+As a result, players are encouraged not only to solve mysteries and uncover truth, but also to intentionally distort events, experiment with timelines, create impossible outcomes, or emotionally influence simulations to see how characters and worlds react.
+
+The game's central themes include:
+- Escapism and unhealthy attachment to fiction
+- Fiction as emotional survival
+- Delusion versus imagination
+- Identity fragmentation
+- The ethics of simulated suffering
+- The romanticization of tragedy
+- Parasocial attachment to fictional worlds
+- Whether fictional experiences can emotionally "count" as real
+
+Fourth Marshal intentionally blurs the line between gameplay systems and psychological commentary. Mechanics, dialogue systems, and even stat calculations are often designed to reflect emotional states rather than pure combat optimization.
+Unlike traditional RPGs, combat effectiveness is not determined primarily through raw numerical scaling. Instead, characters are heavily influenced by dynamic "Psychology Stats", emotional modifiers that evolve based on experiences, relationships, stress, trauma, confidence, obsession, fear, and countless other interacting factors.
+
+The game combines:
+- Narrative RPG systems
+- Experimental psychological mechanics
+- Meta-fiction storytelling
+- Simulation instability
+- Branching timelines
+- Gacha-style character acquisition
+- Emotionally reactive dialogue systems
+- Social and philosophical decision-making
+
+Although Fourth Marshal contains comedy, absurdity, and moments of chaotic experimentation, its core narrative heavily examines the consequences of becoming unable to separate reality from fiction.
+The game repeatedly asks a central question:
+"If fictional worlds can change who you are, were they ever truly fictional to begin with?"

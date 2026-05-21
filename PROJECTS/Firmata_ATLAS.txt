@@ -1,2 +1,87 @@
 (WIP)
-Idea: Built using 3D Unity 6000.3.7f1, it will be a low-poly world simulator system primarily designed to to simulate Firmata Frontier's "The Continent", eventually expand it to the entire Lejos Exspanse, and maybe reuse this system once again for the environments and/or stages in Fourth Marshal.
+Chatty's Memory Summary:
+
+Firmata: ATLAS is a large-scale simulation framework and world visualization project built primarily in Unity 6000.3.7f1. Initially designed to simulate "The Continent" from Firmata Frontier, the system is intended to eventually expand into a full recreation of the Lejos Exspanse and potentially serve as foundational technology for future Scripted Fates projects, including Fourth Marshal.
+Unlike a traditional game map, Firmata: ATLAS functions more like a living world simulator. The project focuses heavily on environmental systems, biome spread logic, civilization growth and collapse, creature migration, weather simulation, psychological ecosystem interactions, and timeline experimentation. The intent is for ATLAS to be capable of simulating the "natural history" of a world even without direct player interaction.
+One of the project's defining ideas is the simulation of "NulGraven Spread", a corruption-like phenomenon capable of altering environments, memories, creatures, and civilizations over time. Rather than existing as scripted events alone, these phenomena are intended to emerge dynamically from layered systems interacting with each other.
+Visually, Firmata: ATLAS is planned to use a stylized low-poly presentation inspired by retro fantasy games, PS2-era atmosphere, simulation sandboxes, and abstract cartography. Despite the simplified art direction, the backend systems are intended to be highly systemic and simulation-heavy.
+
+Long-term plans for the project include:
+- Full continent-scale simulation
+- Dynamic biome and civilization evolution
+- Psychological ecosystem simulations (NulGraven Sites)
+- Alternate Fiction compatibility
+- Potential reuse for Fourth Marshal environments and scenario simulations
+
+Firmata: ATLAS is less about "winning" and more about observing worlds attempting to survive themselves.
+
+Current CHECKLIST 🌍
+PHASE 1
+Water System First™
+
+Because reusable for PostMaker too.
+
+Water Base
+ ~~Flat ocean plane~~
+ ~~Basic shader graph~~
+ ~~Wave movement~~
+ Color gradients
+ Shore fade
+Water Advanced
+ Foam Mask
+ Caustics
+ Wind influence
+ Reflection hints
+ Cloud shadow support
+Water Reusability
+ ~~Water controller script~~
+ Optional World Manager reference
+ Plug-and-play prefab setup
+PHASE 2
+Sky & Atmosphere
+ Sky dome (Firmatas)
+    Sky/Star Shader system
+    Compatibility with "Sea Manager" to reflect sky color to lighter water color.
+ Fake volumetric clouds
+ Distance fog
+ Atmospheric perspective
+ Silhouette system
+ Cloud shadows
+PHASE 3
+Terrain
+ Terrain tile setup
+ Import map reference
+ Sculpt major continents
+ Ocean depth shaping
+ Terrain painting
+ Major mountain silhouettes
+PHASE 4
+Chunk System
+ Chunk manager
+ Chunk debug visualization
+ Load point system
+ Editor-time chunk baking
+ Runtime chunk loading
+ Object pool integration
+PHASE 5
+Environment Systems
+ Shader grass
+ Object grass
+ Forest polygon spawner
+ Wind-reactive foliage
+ Ambient particles
+ Weather systems
+PHASE 6
+Landmark Pass
+ The Spire
+ Comets
+ Distant continent silhouettes
+ Storm visibility
+PHASE 7
+Low-Poly Character Pipeline
+ Base archetype
+ Outfit system
+ Material masking
+ Character builder
+ Export pipeline
+ Blender compatibility

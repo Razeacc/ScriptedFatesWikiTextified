@@ -1,2 +1,24 @@
 (WIP)
 Idea: Firmaments created by highly-skilled Archgods that simulate worlds perfectly while also allowing its own time-processing methods. Time can flow slower, faster, or loop infinitely within a Firmata, but most stop as its default state. It takes skill for a Firmata to have faster/slower speed, even more skill to loop, and the highest skill to sync perfectly with the time outside. They're mostly used by the AoS to keep civilizations within Exspanses contained, isolated, and oblivious to the outside world and other civilizations.
+
+Chatty's Additional Notes:
+Firmatas are artificially-created contained realities designed to simulate stable civilizations, ecosystems, and historical continuity.
+
+Advanced Firmatas possess independent temporal processing systems, allowing time to:
+- accelerate
+- decelerate
+- loop
+- partially desynchronize
+- synchronize perfectly with external reality
+
+Perfect synchronization is considered one of the most technically difficult achievements in Firmata engineering.
+
+Originally conceptualized by Kaitzar and the Unnamed Fourth Marshal, Firmatas became heavily utilized by the AoS (with the help of Vektat to actually make them) as methods of:
+- containment
+- civilization isolation
+- historical experimentation
+- multiversal management
+- controlled societal observation
+
+Vektat's Firmatas are not only the largest, but also the most stable, as it perfectly syncrhonizes with time outside them.
+Most inhabitants inside Firmatas remain completely unaware of external civilizations or the artificial nature of their world.

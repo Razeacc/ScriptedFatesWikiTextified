@@ -1,0 +1,63 @@
+(WIP)
+Chatty's Memory Summary:
+
+Psychology Stats are one of Fourth Marshal's defining gameplay systems. Unlike traditional RPG attributes that scale linearly upward forever, Psychology Stats exist as highly-interconnected emotional multipliers that typically operate within a capped range between 0.0 and 2.0.
+
+These stats are designed to simulate emotional tendencies, personality traits, mental states, habits, instincts, and behavioral feedback loops rather than simple power scaling.
+
+Examples of Psychology Stats include:
+- Aggression
+- Determination
+- Patience
+- Fear
+- Confidence
+- Loyalty
+- Curiosity
+- Obsession
+- Mood
+- Combat Experience
+- Emotional Stability
+- Recklessness
+- Empathy
+- Pride
+- Trust
+
+Psychology Stats constantly influence one another. Increasing one emotional trait may indirectly raise or lower several others depending on the character's current mental state, experiences, relationships, and active conditions.
+
+For example:
+- High Aggression may increase Physicality while reducing Alacrity.
+- High Fear may improve caution and perception while reducing confidence.
+- High Obsession may improve focus at the cost of emotional stability.
+- High Determination may reduce exhaustion penalties.
+- High Combat Experience may amplify the effectiveness of aggressive behavior.
+
+Because these systems are interconnected, character builds often evolve into emotional ecosystems rather than static stat sheets.
+
+To prevent infinite feedback loops or unstable calculations, Psychology Stats are processed through a calculation priority system. Some traits finalize their values earlier in the calculation chain, while others react afterward. Certain items, abilities, blessings, distortions, or Alternate Fiction modifiers may even alter calculation order itself, allowing advanced players to intentionally manipulate emotional feedback systems for specialized builds.
+
+The system is also heavily tied to status effects.
+
+Unlike conventional RPG buffs, many status conditions scale dynamically depending on a character's pre-existing psychology profile:
+- Enraged characters gain Physicality based on Aggression levels.
+- Panic effects worsen more severely for low-Confidence characters.
+- Inspiration scales stronger on highly Determined individuals.
+- Isolation affects emotionally dependent characters differently than independent ones.
+
+Psychology Stats also influence dialogue and narrative outcomes:
+- Highly aggressive characters may lose peaceful dialogue options.
+- Extremely empathetic characters may refuse certain actions entirely.
+- Fearful characters may hesitate during critical decisions.
+- Overconfident characters may underestimate danger.
+- Obsessive characters may unlock unique investigation routes.
+
+The system intentionally treats emotional states as gameplay mechanics rather than flavor text.
+
+Alongside Psychology Stats, all characters also possess four primary foundational attributes:
+- Physicality: Raw strength, endurance, and physically demanding capability.
+- Alacrity: Reflexes, coordination, balance, speed, and reaction timing.
+- Mentality: Logic, intelligence, analysis, memory, and technical reasoning.
+- Spirituality: Wisdom, morality, intuition, emotional resonance, and spiritually demanding capability.
+
+Unlike Psychology Stats, these four foundational attributes are more stable and traditionally scalable. However, Psychology Stats frequently modify or distort them temporarily during gameplay.
+
+The overall goal of the system is to create characters who feel psychologically alive rather than mathematically optimized.

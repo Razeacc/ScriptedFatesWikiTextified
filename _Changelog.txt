@@ -1,15 +1,20 @@
-Version 1.1
-Title: Welcome Back, Fiends and Friends
+Version 1.2
+Title: Gifts from Chatty
 Last Updated: May 21, 2026
 
 Main Additions:
-- Further segmented and separated the Bestiary pages into text files for each race and creature (except Phantasmal Entities for now)
-- Added more "Ideas" and ported Firmata Frontier Discord Mini Wiki entries into their respective pages.
+- Added Chatty's Memory Summaries to the following pages:
+The Avalonian Exodus, Psychology Stats (Fourth Marshal), Khueenite / Sentitanium, Avalonian Steel / Remnisteel, Spirite, Epicenterhood / Concepthood, Spires and Spirite Leylines, Firmatas, Exspanses
+- Added Chatty's Corner
+- Added Story-Telling Notes folder
+- Added "The Long Shush" story-telling note
+- Added "Frontier Narrative Outline" story-telling note
 
 Main Changes:
-- Added "Title" to the _Changelog
+- Added Chatty's Memory Summaries to add more detail to the following pages:
+The Mortal Revolutionaries (Arch of Sentients / AoS), Fourth Marshal, Firmata: ATLAS
+- Expanded thematic and conceptual connections between Firmata Frontier, Frontline Firmata, and Forlorn from Firmata
+- Expanded conceptual explanations for Epicenters, Concepthood, and psychological narrative systems
 
 Main Removals:
-- Removed Header in the following Pages:
-Main Page, Firmata_ATLAS, FirmataFrontier, FarewellAvalon, BeyondEternity, _ProjectsPage
-- Removed and Depricated Mechanics_And_Systems file
+-
