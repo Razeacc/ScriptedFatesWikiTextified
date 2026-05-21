@@ -1,0 +1,56 @@
+(WIP)
+Creature profile entry:
+
+:muscle: PHYS - N/A
+:zap: ALAC + 4
+:bulb: MENT + 2
+:crescent_moon: SPIR + 4
+
+CAPABILITIES:
+```
+ALLURING WHISPERS
+Tempt a target to approach the echo.
+Roll for SPIR
+
+FRIGHTENING AID
+Call for help to draw a target closer.
+Roll for MENT
+
+UNENDING SCREAMS
+Repeatedly yell to reduce a target's focus.
+Roll for SPIR
+Target rolls for ALAC.
+
+FLOWER GIRL WITNESS
+???
+(Secret Note: Echo Caradels are what Memetta uses to see, they fly all around her invisibly and report "feedback" constantly.)
+
+---
+
+NULGRAVEN HIVEMIND
+What one Caradel sees, they all see. Once alerted to a hostile, the closest NulGraven site will begin coordinating itself.
+```
+
+DESC:
+```
+Carrying no physical form, Echoes exist merely as sound-based entities. They carry the voices of souls that have ceased to exist.
+Capable of traveling far beyond their attached NulGraven Site, they can silently stalk prey or harass them. From calls into the darkness, cries for help, or screams of pain, echo caradels are a nightmare to deal with alone.
+
+If you stay silent, they should eventually get bored and leave.
+Shouting back is effective at scaring them off faster.
+Although, if their whispers only get louder after yelling, remain silent at all costs.
+```
+
+Habitat: `N/A`
+Role: `Psychological Warfare and Espionage`
+Type: `Disembodied Voices`
+
+NulGraven Stats:
+```
+Cost: 1
+Danger: Low
+Size: N/A
+Max Range: 5km
+```
+
+-# Fracturing Equivalent: __Fracturing Mirage__ or __Thronus Caradel__

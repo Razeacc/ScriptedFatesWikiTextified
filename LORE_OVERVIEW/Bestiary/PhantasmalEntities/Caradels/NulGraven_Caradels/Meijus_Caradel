@@ -1,0 +1,42 @@
+(WIP)
+Creature profile entry:
+
+:muscle: PHYS + 2
+:zap: ALAC + 3
+:bulb: MENT - 0
+:crescent_moon: SPIR + 3
+
+CAPABILITIES:
+```
+SHATTER CUT
+Rapidly slashes its claws at a target.
+Roll for PHYS
+
+FINGER GUN
+Aims one of its fingers at a target before launching it in a piercing strike.
+Roll for ALAC.
+
+---
+
+NULGRAVEN HIVEMIND
+What one Caradel sees, they all see. Once alerted to a hostile, the closest NulGraven site will begin coordinating itself.
+```
+
+DESC:
+```
+Clawed disembodied clawed fingers suspended by red puppet strings. Attacks in swarms using frequency-imbued slashes.
+```
+
+Habitat: `NulGraven Sites`
+Role: `Swarm Entity`
+Type: `Nightmare fingers`
+
+NulGraven Stats:
+```
+Cost: 3
+Danger: Small
+Size: Small-Medium
+Max Range: 500m
+```
+
+-# Fracturing Equivalent: __Locus Caradel__

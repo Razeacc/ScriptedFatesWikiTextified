@@ -1,0 +1,68 @@
+(WIP)
+Creature profile entry:
+
+:muscle: PHYS + 4
+:zap: ALAC + 3
+:bulb: MENT - 0
+:crescent_moon: SPIR + 5
+
+CAPABILITIES:
+```
+SPIKED HEADBUTT
+Rams its head onto a target causing minor damage.
+Roll for PHYS.
+De-Activates "Slice of Life".
+
+THREATENING GAZE
+Can only target behind it while "Slice of Life" is active.
+Stares at a target and marks them. Marked targets take extra damage from NulGraven Caradels.
+
+NULGRAVEN HIVEMIND
+What one Caradel sees, they all see. Once alerted to a hostile, the closest NulGraven site will begin coordinating itself.
+
+SLICE OF LIFE (Status Effect)
+Unhinges its true jaw. Takes more damage while unhinged, but allows for more variety of attacks.
+
+---
+All Capabilities below require "Slice of Life" to be active.
+
+GRAVEN CRUNCH
+Grows monstrous fangs from its true jaw and bites down hard on a target, dealing extreme damage.
+Roll for PHYS + SPIR.
+
+MEIJUS EXPEL
+Projectile-launches a Meijus Caradel from itself. This can be used to attack enemies from afar and can easily reach airborne targets.
+Roll for ALAC to aim
+
+DREAM SCREAM
+Releases several Echo caradels from its true jaw.
+Roll for MENT.
+Characters who roll lower MENT feel terrified.
+
+HARBOR DIVE
+Vomits an Arbor Caradel out from its true jaw before sinking into the corrupted ground.
+Where it emerges again, spikes its head up for an attack.
+Roll for PHYS.
+De-activates "Slice of Life".
+```
+
+DESC:
+```
+Human-sized sock puppet predators with barely-floating severed heads, overtly wide-grinned "mouths", and dream catchers for eyes. The neck slit is its true mouth, opening it up wide to summon swarms of lesser NulGraven Caradels internally.
+
+They move around by slithering through NulGraven-infested surfaces and cannot leave the vicinity of their attached sites.
+```
+
+Habitat: `NulGraven Sites`
+Role: `NulGraven Summoner/Predator`
+Type: `Nightmare Sock Puppet`
+
+NulGraven Stats:
+```
+Cost: 7
+Danger: High
+Size: Medium-Large
+Max Range: N/A (Bound to Site) 
+```
+
+-# Fracturing Equivalent: __Rogue Caradel__
