@@ -1,25 +1,33 @@
 Version 1.3
 Title: Magic and Metal
-Last Updated: May 21, 2026
+Last Updated: May 22, 2026
 
 Main Additions:
-- New "_Changelogs" Folder
-- New "1.3_Changelog.txt" to collect and organize changelogs moving forward
+- "_Changelogs" Folder
+- "1.3_Changelog.txt" to collect and organize changelogs moving forward
 - AvalonianExodus page reworked with a proper "Idea" entry
-- New subfolder in TermsAndConcepts/Elemntarium "Supernatural"
-- New subfolder in TermsAndConcepts "Phenomena" and "WorldFeatures"
-- New "Alterants" and "Archamachines" subfolders in "Mortals" folder
-- New Psyche_Petrification and Toyette Phenomena pages with Idea notes.
-- New NulGraven Site and Fracturing Zone pages, with new Caradel pages for both 
+- Subfolder in TermsAndConcepts/Elemntarium "Supernatural"
+- Subfolder in TermsAndConcepts "Phenomena" and "WorldFeatures"
+- "Alterants" and "Archamachines" subfolders in "Mortals" folder
+- Psyche_Petrification and Toyette Phenomena pages with Idea notes
+- NulGraven Site and Fracturing Zone pages
+- NulGraven and Fracturing Caradel pages in the Bestiary under the PhantasmalEntities folder
+- "Decanoluzioned Fictions" "Alternate Fiction" "Seperatist Sequence", "Frequencies", "Wingships", and "Toyette" pages in "TermsAndConcepts/Phenomena"
+- Memory Pieces page in "Elementarium/Supernatural" (High Priority for Firmata Frontier)
+- "Living Piece" page with idea added to PhantasmalEntities (High Priority for Firmata Frontier)
+- "Lithe (Spireknell)" and "Morga's Living Piece" character pages (with idea notes at least)
+Note: NulGraven Phenomena takes a slightly-higher priority, as the main conflict in Firmata Frontier will be dealing with a NulGraven Infestation secretly being carried-out by Memetta.
+Note: Fracturing Phenomena will still have importance, as An-Tri'Fhiana is considered the "largest expanse of fracturing zones", alongside it having a secret "Stabilize Fracturing Zone" mini city of "Mini Marlika", so don't ignore it completely.
 
 Main Changes:
-- Moves "_Changelogs.txt" to the new "_Changelogs" folder, and renamed it to "1.2_Changelog.txt"
+- Moved "_Changelogs.txt" to the new "_Changelogs" folder, and renamed it to "1.2_Changelog.txt"
 - Reorganized Factions page so each faction is aranged by Ontology
 - Further organized "TermsAndConcepts" folder into new subfolders (Phenomena and World Features)
 - This is where Memories, Sentience, and PSYCHE (Soul) can be found now
 - Alterants, Epicenterhood, and 4FundamentalAspects moved to new "Phenomena" Subfolder
 - Exspanses, Firmatas, and Spires moved to new "WorldFeatures" Subfolder
 - Added more context to Epicenterhood page
+- Renamed "FourthMarshal.txt" to "Project_FOURTHMARSHAL.txt" and text should now refer to it as "Project: FOURTH MARSHAL" to help differentiate it from the Court of the Fourth role "Fourth Marshal"
 
 Main Removals:
 - Chatty's Memories from the Avalonian Exodus has been removed.
