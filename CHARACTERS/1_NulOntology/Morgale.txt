@@ -1,6 +1,4 @@
-................................
-####		Morgale de Metso
-................................
+
 {{ScriFa_Character|name=Morgale de Metso|title=Archgod of Artifice|image1=<gallery hideaddbutton="true">
 Morgale Headshot.png|Headshot
 Morgale_DesignSheet.jpg|Design Sheet
