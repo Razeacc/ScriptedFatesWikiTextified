@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.5_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_Changelogs\\1.5_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_Changelogs\\1.4_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1.5_Changelog.md",
+              "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.5_Changelog.md",
+              "RelativeDocumentMoniker": "_Changelogs\\1.5_Changelog.md",
+              "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.5_Changelog.md",
+              "RelativeToolTip": "_Changelogs\\1.5_Changelog.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-25T00:01:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1.4_Changelog.md",
               "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
               "RelativeDocumentMoniker": "_Changelogs\\1.4_Changelog.md",
               "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
               "RelativeToolTip": "_Changelogs\\1.4_Changelog.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-05-24T18:25:31.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FirmataPaladins.md",
               "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
               "RelativeDocumentMoniker": "LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProfessorBesado_67.md",
               "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
               "RelativeDocumentMoniker": "CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Epicenterhood.md",
               "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
               "RelativeDocumentMoniker": "LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",

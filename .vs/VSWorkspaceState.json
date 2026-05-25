@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LORE_OVERVIEW",
     "\\LORE_OVERVIEW\\TermsAndConcepts",
     "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium",
     "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium\\Supernatural",
-    "\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena"
+    "\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena",
+    "\\_Changelogs"
   ],
-  "SelectedNode": "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium\\Supernatural\\Memories.txt",
+  "SelectedNode": "\\_Changelogs\\1.5_Changelog.md",
   "PreviewInSolutionExplorer": false
 }
